@@ -1,0 +1,16 @@
+[projects]
+
+  [projects.default]
+  contents = ["index"]
+  #output_filename = "books"
+
+  # Prefix for GitHub Pages.
+  #online_url_prefix = "/Books.jl"
+
+  # Extra directories to be copied.
+  #extra_directories = [
+  #  "images",
+  #  "files"
+  #]
+
+  port = 8012
