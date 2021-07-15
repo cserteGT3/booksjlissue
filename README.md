@@ -1,7 +1,7 @@
 # Books.jl issue
 
 1. Clone the project.
-2. Then `] instantiate` in project's root.
+2. Then run julia and `] instantiate` in project's root.
 3. Then run `julia --project -e "using Books; serve()"` (on Windows at least).
 
 ```bash
